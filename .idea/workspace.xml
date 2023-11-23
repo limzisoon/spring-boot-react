@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e72014d4-4d3d-4708-83ad-2f4443e1042b" name="Changes" comment="1st commit">
+    <list default="true" id="e72014d4-4d3d-4708-83ad-2f4443e1042b" name="Changes" comment="repackage">
+      <change afterPath="$PROJECT_DIR$/misc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/springbootreact/BoostrapInitialData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/BoostrapInitialData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/springbootreact/SpringBootReactApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/SpringBootReactApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/springbootreact/controller/ClientsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/controller/ClientsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/springbootreact/domain/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/domain/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/springbootreact/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/repository/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/BoostrapInitialData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/springbootreact/BoostrapInitialData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +37,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/zisoon/spring-boot-react/misc"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\zisoon\spring-boot-react\misc" />
+      <recent name="C:\zisoon\spring-boot-react\src\main\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,11 +70,19 @@
       <option name="project" value="LOCAL" />
       <updated>1700732028675</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="repackage">
+      <created>1700736266320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700736266320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="repackage" />
+    <option name="LAST_COMMIT_MESSAGE" value="repackage" />
   </component>
 </project>

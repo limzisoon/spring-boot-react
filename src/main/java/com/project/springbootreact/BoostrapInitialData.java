@@ -21,7 +21,7 @@ public class BoostrapInitialData implements CommandLineRunner {
     @Override
     public void run(String... args) {
         for (int i = 0; i < 10; i++) {
-            clientRepository.save(new Client(faker.name().fullName(), faker.internet().emailAddress()));
+//            clientRepository.save(new Client(faker.name().fullName(), faker.internet().emailAddress()));
         }
     }
 }
