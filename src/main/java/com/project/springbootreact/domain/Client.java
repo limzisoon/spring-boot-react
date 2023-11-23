@@ -1,4 +1,4 @@
-package com.baeldung.springbootreact.domain;
+package com.project.springbootreact.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
