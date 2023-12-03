@@ -11,3 +11,6 @@ INSERT INTO client (id, name, email) VALUES (1, 'Lim Zi Soon', 'limzisoon@hotmai
 INSERT INTO client (id, name, email) VALUES (2, 'Lim Yong En', 'limyongen@hotmail.com');
 INSERT INTO client (id, name, email) VALUES (3, 'Lim Yong Hui', 'limyonghui@hotmail.com');
 
+
+CREATE SEQUENCE hibernate_sequence START 1;
+
